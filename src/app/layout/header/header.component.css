@@ -1,0 +1,6 @@
+.menu-wrap{
+    display: flex;
+    justify-content: space-between;
+    background: black;
+    color:white;
+}

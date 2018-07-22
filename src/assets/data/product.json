@@ -1,0 +1,42 @@
+[
+	{
+		"id": 1,
+		"photos": [
+			"1.jpg",
+			"2.jpg",
+			"3.jpg"
+		],
+		"price": 10,
+		"type":"christmas"
+	},
+	{
+		"id": 2,
+		"photos": [
+			"1.jpg",
+			"2.jpg",
+			"3.jpg"
+		],
+		"price": 10,
+		"type":"christmas"
+	},
+	{
+		"id": 3,
+		"photos": [
+			"1.jpg",
+			"2.jpg",
+			"3.jpg"
+		],
+		"price": 10,
+		"type":"christmas"
+	},
+	{
+		"id": 4,
+		"photos": [
+			"1.jpg",
+			"2.jpg",
+			"3.jpg"
+		],
+		"price": 10,
+		"type":"christmas"
+	}
+]

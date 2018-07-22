@@ -1,0 +1,9 @@
+<div class="product-wrap">
+  <div class="each-product" *ngFor="let product of products">
+    {{product.type}}
+    <div class="add-cart-btn-wrap">
+      <button type="button" (click)="updateCart(product.id,'',1)">Add to cart</button>
+    </div>
+  </div>
+  
+</div>
