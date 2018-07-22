@@ -28,7 +28,7 @@ export class CartService {
       let newCartData = {"product_id":id, "title":title, "quantity":quantity};
       this.cart.push(newCartData);
     }
-    console.log(this.cart);
+    //console.log(this.cart);
     // Set cart count
     this.cartSubject.next(this.cart.length)
     //return this.cart;
